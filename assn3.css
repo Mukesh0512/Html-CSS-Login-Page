@@ -1,0 +1,83 @@
+#mainDiv{
+    display: flex;
+    border-radius: 6px;
+    margin: 1%;
+    height: 620px;
+    box-shadow: 10px 10px 10px rgb(110, 121, 124);
+}
+.divFront{
+    width: 50%;
+    text-align: center;
+}
+#div2{
+    background-color: rgb(236, 63, 51);
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+   
+}
+#content2{
+    
+    padding: 20%;
+    margin-top: 10%;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#heading2{
+    font-size: 320%;
+    
+}
+.icon{
+    margin-top: 8%;
+}
+.inputBox {
+    margin-top: 2%;
+}
+.inputType{
+    width: 58%;
+    height: 40px;
+    border: hidden;
+    background-color: rgb(206, 207, 207);
+    padding-left: 2%;
+}
+button{
+    margin-top: 3%;
+    padding: 1.5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 50px;
+    background-color: red;
+    color: white;
+    border: hidden;
+}
+#heading1{
+    margin-top: 15%;
+}
+
+
+  
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgb(17, 0, 255);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  
